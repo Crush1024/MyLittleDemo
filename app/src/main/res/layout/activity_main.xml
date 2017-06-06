@@ -1,21 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.wendu.rongclouddemo.MainActivity"
+    android:orientation="vertical"
+    tools:context="com.wendu.rongclouddemo.activity.MainActivity"
     >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        />
 
-</android.support.constraint.ConstraintLayout>
+    <Button
+        android:id="@+id/connect_10010"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击连接融云server(用户1)" />
+
+    <Button
+        android:id="@+id/connect_10086"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="点击连接融云server(用户2)" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="做融云操作前请先连接融云server"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/load1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="静态加载融云会话列表" />
+
+    <Button
+        android:id="@+id/load2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="动态加载融云会话列表" />
+
+    <Button
+        android:id="@+id/chat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开启会话界面" />
+
+    <Button
+        android:id="@+id/customerservice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开启客服聊天" />
+
+    <Button
+        android:id="@+id/listener"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置监听" />
+
+    <Button
+        android:id="@+id/sendmessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test发送消息回调" />
+
+    <Button
+        android:id="@+id/pushlistnter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TestPush消息的监听" />
+
+    <Button
+        android:id="@+id/getHistoryMessages"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="测试HistoryMessages" />
+
+</LinearLayout>

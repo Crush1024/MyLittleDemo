@@ -432,12 +432,12 @@
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\default\\res\\drawable-xhdpi-v4\\rc_cs_delete.png"
     },
     {
-        "merged": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_audio_right_cancel.png",
-        "source": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_audio_right_cancel.png"
-    },
-    {
         "merged": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_handfree_hover.png",
         "source": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_handfree_hover.png"
+    },
+    {
+        "merged": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_voip_audio_right_cancel.png",
+        "source": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_voip_audio_right_cancel.png"
     },
     {
         "merged": "E:\\myDemo\\RongCloudDemo\\CallKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f6bf.png",

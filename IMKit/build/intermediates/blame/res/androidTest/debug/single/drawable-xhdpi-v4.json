@@ -400,12 +400,12 @@
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f48b.png"
     },
     {
-        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_right_file.9.png",
-        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_bubble_right_file.9.png"
-    },
-    {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ext_indicator_hover.png",
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ext_indicator_hover.png"
+    },
+    {
+        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_bubble_right_file.9.png",
+        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_bubble_right_file.9.png"
     },
     {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_menu_keyboard_hover.png",
@@ -1172,12 +1172,12 @@
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_read_receipt.png"
     },
     {
-        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f4de.png",
-        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f4de.png"
-    },
-    {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_star.png",
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_star.png"
+    },
+    {
+        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f4de.png",
+        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\u1f4de.png"
     },
     {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\u1f46b.png",
@@ -1332,12 +1332,12 @@
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_btn_open_file_normal.png"
     },
     {
-        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_volume_6.png",
-        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_volume_6.png"
-    },
-    {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_volume_0.png",
         "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_volume_0.png"
+    },
+    {
+        "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_ic_volume_6.png",
+        "source": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\rc_ic_volume_6.png"
     },
     {
         "merged": "E:\\myDemo\\RongCloudDemo\\IMKit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\rc_emotion_toggle.png",
