@@ -99,8 +99,8 @@ public class MainActivity extends AppCompatActivity implements RongIM.UserInfoPr
             Log.e(TAG, "onClick: 用户2");
             connectRongServer(token2);
         } else if (v.getId() == R.id.load1) {
-//            startActivity(new Intent(MainActivity.this,
-//                    LoadConversationListFragment1.class));
+            startActivity(new Intent(MainActivity.this,
+                    LoadConversationListFragment1.class));
         } else if(v.getId() == R.id.load2){
             startActivity(new Intent(MainActivity.this,
                     LoadConversationListFragment2.class));
@@ -155,6 +155,18 @@ public class MainActivity extends AppCompatActivity implements RongIM.UserInfoPr
 //                    Log.e(TAG, "测试发送消息回调输出失败----错误码:"+arg1.getValue());
 //                }
 //            });
+//            RongIM.getInstance().getRongIMClient().sendMessage(Conversation.ConversationType.PRIVATE,mUserId.equals("001") ? "002" : "001",tm,null,new RongIMClient.Callback(){
+//                @Override
+//                public void onSuccess() {
+//
+//                }
+//
+//                @Override
+//                public void onError(RongIMClient.ErrorCode errorCode) {
+//
+//                }
+//            });
+
 
         }else if(v.getId() == R.id.pushlistnter){
             // push 监听可以不需要实现 也不影响代码 这里只为测试  需要在IPC 和 主进程 挂掉以后去测试  也就算 程序退出以后 只有进程在后台运行的时候来消息 false 为融云处理 true 为自己处理
